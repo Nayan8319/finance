@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "64ea3111411b6d9fdf6c8696"
+  },
+  "email": "tailorharsh2704@gmail.com",
+  "password": "Harsh123",
+  "isAdmin": false,
+  "permission": [
+    "product",
+    "sale",
+    "purchase"
+  ],
+  "name": "Harsh",
+  "status": "Active",
+  "id": 1
+},
+{
+  "_id": {
+    "$oid": "64ea32a7411b6d9fdf6c8697"
+  },
+  "email": "gamerharsh0@gmail.com",
+  "password": "Harsh123",
+  "isAdmin": true,
+  "name": "Admin",
+  "status": "Active",
+  "id": 2
+},
+{
+  "_id": {
+    "$oid": "64fb6ab575803ddd2b619067"
+  },
+  "name": "javed",
+  "email": "javde@gmail.com",
+  "password": "Javed123",
+  "status": "Inactive",
+  "id": 3,
+  "isAdmin": false,
+  "permission": []
+},
+{
+  "_id": {
+    "$oid": "64fd86845ac9737cd07d4b29"
+  },
+  "name": "Jatin",
+  "email": "Jataiyo@mail.com",
+  "password": "Jatin123",
+  "status": "Active",
+  "isAdmin": false,
+  "id": 4,
+  "permission": [
+    "product"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fdb64a6e559e5a046263bc"
+  },
+  "name": "Vivek",
+  "email": "vivek@mail.com",
+  "permission": [
+    "product",
+    "customer",
+    "vendor"
+  ],
+  "password": "Vivek123",
+  "status": "Inactive",
+  "isAdmin": false,
+  "id": 5,
+  "permissions": []
+},
+{
+  "_id": {
+    "$oid": "64fdcd916e559e5a046263bd"
+  },
+  "name": "Harsh",
+  "email": "web.with.harsh.service@gmail.com",
+  "permission": [],
+  "password": "Harsh123",
+  "status": "Inactive",
+  "isAdmin": true,
+  "id": 6
+}]

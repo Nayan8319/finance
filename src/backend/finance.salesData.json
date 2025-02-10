@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "65004fc3f5c4b30e6844166e"
+  },
+  "transaction_id": 1,
+  "customer_name": "Aprichit",
+  "item": "iPhone",
+  "quantity": 1,
+  "date": {
+    "$date": "2023-02-21T18:30:00.000Z"
+  },
+  "total_amount": 50000
+},
+{
+  "_id": {
+    "$oid": "6502c994c1a867261301908f"
+  },
+  "transaction_id": 3,
+  "customer_name": "Akshat",
+  "item": "TV",
+  "quantity": 5,
+  "date": {
+    "$date": "2023-09-14T14:21:32.386Z"
+  },
+  "total_amount": 250000
+},
+{
+  "_id": {
+    "$oid": "65032ad64dfb6ff5f3fea7ef"
+  },
+  "transaction_id": 4,
+  "customer_name": "Yadav",
+  "item": "TV",
+  "quantity": 1,
+  "date": {
+    "$date": "2023-09-14T21:16:30.513Z"
+  },
+  "total_amount": 50000
+}]

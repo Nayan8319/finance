@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "64f84dd731bf109fbc5eea82"
+  },
+  "name": "iPHONE",
+  "category": "Accessories",
+  "price": 50000,
+  "quantity": 100,
+  "inventoryStatus": "LOWSTOCK",
+  "id": 1
+},
+{
+  "_id": {
+    "$oid": "64f85dae31bf109fbc5eea84"
+  },
+  "name": "TV",
+  "category": "Electronics",
+  "price": 50000,
+  "quantity": 5999,
+  "inventoryStatus": "INSTOCK",
+  "id": 2
+},
+{
+  "_id": {
+    "$oid": "64fef2702f1494f1bb067424"
+  },
+  "name": "AC",
+  "category": "Electronics",
+  "price": 35000,
+  "quantity": 20,
+  "inventoryStatus": "LOWSTOCK",
+  "id": 4
+},
+{
+  "_id": {
+    "$oid": "64fef2902f1494f1bb067425"
+  },
+  "name": "Smat watch",
+  "category": "Electronics",
+  "price": 1500,
+  "quantity": 0,
+  "inventoryStatus": "OUTOFSTOCK",
+  "id": 5
+},
+{
+  "_id": {
+    "$oid": "64fef2cd2f1494f1bb067426"
+  },
+  "name": "O-ONE",
+  "category": "Electronics",
+  "price": 25000,
+  "quantity": 101,
+  "inventoryStatus": "INSTOCK",
+  "id": 6
+},
+{
+  "_id": {
+    "$oid": "64fef2f92f1494f1bb067427"
+  },
+  "name": "FAN",
+  "category": "Electronics",
+  "price": 2000,
+  "quantity": 50,
+  "inventoryStatus": "LOWSTOCK",
+  "id": 7
+},
+{
+  "_id": {
+    "$oid": "64fef3332f1494f1bb067428"
+  },
+  "name": "Home theater",
+  "category": "Electronics",
+  "price": 50000,
+  "quantity": 150,
+  "inventoryStatus": "INSTOCK",
+  "id": 8
+},
+{
+  "_id": {
+    "$oid": "64fef36f2f1494f1bb067429"
+  },
+  "name": "Iron",
+  "category": "Electronics",
+  "price": 2000,
+  "quantity": 50,
+  "inventoryStatus": "LOWSTOCK",
+  "id": 9
+},
+{
+  "_id": {
+    "$oid": "64fef3c32f1494f1bb06742a"
+  },
+  "name": "Headphone",
+  "category": "Electronics",
+  "price": 1000,
+  "quantity": 10,
+  "inventoryStatus": "LOWSTOCK",
+  "id": 3
+}]

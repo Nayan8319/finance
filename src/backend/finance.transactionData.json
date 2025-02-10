@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "65004e8af5c4b30e6844166c"
+  },
+  "transaction_id": 1,
+  "type": "sale",
+  "item": "iPhone",
+  "quantity": 1,
+  "total_amount": 50000,
+  "date": {
+    "$date": "2023-02-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650070edf5c4b30e68441682"
+  },
+  "transaction_id": 2,
+  "type": "purchase",
+  "item": "MacBook Pro",
+  "quantity": 150,
+  "total_amount": 12000000,
+  "date": {
+    "$date": "2022-02-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c994c1a8672613019090"
+  },
+  "transaction_id": 3,
+  "type": "sale",
+  "item": "TV",
+  "quantity": 5,
+  "date": {
+    "$date": "2023-09-14T14:21:32.386Z"
+  },
+  "total_amount": 250000
+},
+{
+  "_id": {
+    "$oid": "65032ad64dfb6ff5f3fea7f0"
+  },
+  "transaction_id": 4,
+  "type": "sale",
+  "item": "TV",
+  "quantity": 1,
+  "date": {
+    "$date": "2023-09-14T21:16:30.513Z"
+  },
+  "total_amount": 50000
+},
+{
+  "_id": {
+    "$oid": "6503301dce989790cb5db2d6"
+  },
+  "transaction_id": 5,
+  "type": "purchase",
+  "item": "Samsung Galaxy S23",
+  "quantity": 100,
+  "date": {
+    "$date": "2023-09-14T21:39:01.974Z"
+  },
+  "total_amount": 5000000
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65006fa3f5c4b30e6844167d"
+  },
+  "transaction_id": 2,
+  "vendor_name": "Apple Pvt Ltd",
+  "item": "MacBook Pro",
+  "quantity": 150,
+  "date": {
+    "$date": "2022-02-22T00:00:00.000Z"
+  },
+  "total_amount": 12000000
+},
+{
+  "_id": {
+    "$oid": "6503301dce989790cb5db2d5"
+  },
+  "transaction_id": 5,
+  "vendor_name": "Samsung Pvt Ltd",
+  "item": "Samsung Galaxy S23",
+  "price": 50000,
+  "quantity": 100,
+  "date": {
+    "$date": "2023-09-14T21:39:01.974Z"
+  },
+  "total_amount": 5000000
+}]
