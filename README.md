@@ -135,15 +135,6 @@ Relational schema includes:
 
 ---
 
-## 🏅 GitHub Badges
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Nayan8319/financial-accounting-system)
-![GitHub stars](https://img.shields.io/github/stars/Nayan8319/financial-accounting-system?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Nayan8319/financial-accounting-system)
-![GitHub license](https://img.shields.io/github/license/Nayan8319/financial-accounting-system)
-
----
-
 ## 🖼️ Embedded Screenshots
 
 > *(Place these images in a `/screenshots` folder in your repository)*
