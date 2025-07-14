@@ -106,6 +106,8 @@ Relational schema includes:
 | 🧑‍🎓 Name            | 🌐 GitHub                       |
 |----------------------|----------------------------------|
 | Nayan Padhiyar       | [@Nayan8319](https://github.com/Nayan8319) |
+| Harsh Tailor       | [@HarshTailor](https://www.linkedin.com/in/harsh-tailor-x27/) |
+| Pratham Sali       | [@PrathamSali](https://www.linkedin.com/in/pratham-sali-7244a4216/) |
 
 > Submitted under the academic program 🎓 **Udhna Citizen Commerce College – BCA Sem 6**, guided by *Mr. Ronak Shah*.
 
